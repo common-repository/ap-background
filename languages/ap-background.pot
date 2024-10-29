@@ -1,0 +1,1248 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AP Background\n"
+"POT-Creation-Date: 2022-07-17 17:08+0700\n"
+"PO-Revision-Date: 2022-07-12 14:34+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ap_background.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/functions.admin.php:17 includes/functions.admin.php:1135
+msgid "SF Advanced Parallax Background"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/functions.admin.php:17 includes/functions.admin.php:1134
+msgid "AP Background"
+msgstr ""
+
+#: includes/functions.admin.php:18
+msgid "Add new"
+msgstr ""
+
+#: includes/functions.admin.php:146
+msgid "- Please input slider name"
+msgstr ""
+
+#: includes/functions.admin.php:176 includes/functions.admin.php:184
+#: includes/functions.admin.php:192 includes/functions.admin.php:200
+#: includes/functions.admin.php:208 includes/functions.admin.php:287
+#: includes/functions.admin.php:303
+#, php-format
+msgid "- Folder <strong>%s</strong> can not be written. Check chmod, please."
+msgstr ""
+
+#: includes/functions.admin.php:180 includes/functions.admin.php:188
+#: includes/functions.admin.php:196 includes/functions.admin.php:204
+#, php-format
+msgid "- Can not create <strong>%s</strong>. Check chmod, please."
+msgstr ""
+
+#: includes/functions.admin.php:291 includes/functions.admin.php:299
+#, php-format
+msgid "- Can not create <strong>%s</strong>. Check chmod, please.<br/>"
+msgstr ""
+
+#: includes/functions.admin.php:295
+#, php-format
+msgid ""
+"- Folder <strong>%s</strong> can not be written. Check chmod, please.<br/>"
+msgstr ""
+
+#: includes/functions.admin.php:416
+msgid "Slider data has been updated"
+msgstr ""
+
+#: includes/functions.admin.php:430
+msgid "Slider has been created"
+msgstr ""
+
+#: includes/functions.admin.php:444
+msgid "There is some error occurred, please try again later"
+msgstr ""
+
+#: includes/functions.admin.php:465
+msgid "Please input Flickr API"
+msgstr ""
+
+#: includes/functions.admin.php:497 includes/functions.admin.php:508
+#: includes/functions.admin.php:522 includes/functions.admin.php:535
+#: includes/functions.admin.php:553 includes/functions.admin.php:564
+msgid "Please select an album"
+msgstr ""
+
+#: includes/functions.admin.php:503
+msgid "Albums have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:507 includes/functions.admin.php:534
+msgid "No album was found"
+msgstr ""
+
+#: includes/functions.admin.php:530 includes/functions.admin.php:559
+msgid "All albums have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:563
+msgid ""
+"Error validating access token: The session was invalidated explicitly using "
+"an API call."
+msgstr ""
+
+#: includes/functions.admin.php:600 includes/functions.admin.php:648
+#: includes/functions.admin.php:652 includes/functions.admin.php:1041
+#: includes/functions.admin.php:1053 includes/utility.php:230
+msgid "Video has been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:606 includes/functions.admin.php:623
+msgid "Please input google api"
+msgstr ""
+
+#: includes/functions.admin.php:610
+msgid "Videos in playlist have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:620
+msgid "Videos of channel have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:628
+msgid "Youtube url invalid"
+msgstr ""
+
+#: includes/functions.admin.php:642
+msgid "All videos have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:657
+msgid "Vimeo url invalid"
+msgstr ""
+
+#: includes/functions.admin.php:683
+msgid "No video ID was set"
+msgstr ""
+
+#: includes/functions.admin.php:711 includes/functions.admin.php:728
+#: includes/functions.admin.php:751
+msgid "All items have been gotten"
+msgstr ""
+
+#: includes/functions.admin.php:714 includes/functions.admin.php:731
+#: includes/functions.admin.php:754
+msgid "No item was found"
+msgstr ""
+
+#: includes/functions.admin.php:819
+msgid "Item deleted"
+msgstr ""
+
+#: includes/functions.admin.php:821 includes/functions.admin.php:875
+msgid "Can't delete this item"
+msgstr ""
+
+#: includes/functions.admin.php:873
+msgid "All Items were deleted"
+msgstr ""
+
+#: includes/functions.admin.php:917 includes/html/create_new.images.php:33
+msgid "Image Gallery"
+msgstr ""
+
+#: includes/functions.admin.php:920
+msgid "Video Background"
+msgstr ""
+
+#: includes/functions.admin.php:923
+msgid "Woo Commerce"
+msgstr ""
+
+#: includes/functions.admin.php:926
+msgid "Wordpress Posts"
+msgstr ""
+
+#: includes/functions.admin.php:950 includes/html/index.php:105
+msgid "Edit"
+msgstr ""
+
+#: includes/functions.admin.php:952 includes/html/index.php:107
+msgid "Delete"
+msgstr ""
+
+#: includes/functions.admin.php:953 includes/html/index.php:108
+msgid "Copy"
+msgstr ""
+
+#: includes/functions.admin.php:955 includes/html/index.php:109
+msgid "Preview"
+msgstr ""
+
+#: includes/functions.admin.php:962
+msgid "Slider has been copied"
+msgstr ""
+
+#: includes/functions.admin.php:965
+msgid "Can't save sider"
+msgstr ""
+
+#: includes/functions.admin.php:1005 includes/functions.admin.php:1016
+#: includes/utility.php:185 includes/utility.php:198
+msgid "File has been gotten successfully"
+msgstr ""
+
+#: includes/functions.admin.php:1008 includes/utility.php:188
+#: includes/utility.php:233
+msgid "This video has been removed by the user."
+msgstr ""
+
+#: includes/functions.admin.php:1021
+msgid "Please input youtube video url"
+msgstr ""
+
+#: includes/functions.admin.php:1029
+msgid "This is a vimeo album url, please input a video url to get it."
+msgstr ""
+
+#: includes/functions.admin.php:1045
+msgid "Please input a single video url."
+msgstr ""
+
+#: includes/functions.admin.php:1079
+msgid "Content was loaded successfully"
+msgstr ""
+
+#: includes/functions.admin.php:1082
+msgid "Can't get content"
+msgstr ""
+
+#: includes/functions.admin.php:1140
+msgid "Content"
+msgstr ""
+
+#: includes/functions.admin.php:1149
+msgid "Select Background"
+msgstr ""
+
+#: includes/functions.admin.php:1152
+msgid "Choose BT Advenced Parallax Background"
+msgstr ""
+
+#: includes/functions.admin.php:1169
+msgid "Parallax content preview loaded successfully"
+msgstr ""
+
+#: includes/functions.admin.php:1174
+msgid "No parallax id"
+msgstr ""
+
+#: includes/functions.admin.php:1187
+msgid "Insert"
+msgstr ""
+
+#: includes/functions.admin.php:1197
+msgid "VIDEO BACKGROUND"
+msgstr ""
+
+#: includes/functions.admin.php:1201
+msgid "VIDEO SETTING"
+msgstr ""
+
+#: includes/functions.admin.php:1207
+msgid "IMAGE GALLERY"
+msgstr ""
+
+#: includes/functions.admin.php:1211
+msgid "IMAGE GALLERY SETTING"
+msgstr ""
+
+#: includes/functions.admin.php:1217
+msgid "WOO COMMERCE"
+msgstr ""
+
+#: includes/functions.admin.php:1221
+msgid "IWOO COMMERCE SETTING"
+msgstr ""
+
+#: includes/functions.admin.php:1227
+msgid "WORDPRESS POSTS"
+msgstr ""
+
+#: includes/functions.admin.php:1231
+msgid "POST SETTING"
+msgstr ""
+
+#: includes/functions.admin.php:1246
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: includes/functions.admin.php:1253
+msgid "Find help"
+msgstr ""
+
+#: includes/functions.admin.php:1260
+msgid "Find new update"
+msgstr ""
+
+#: includes/functions.front.php:43
+msgid "No Parallax Background with alias: "
+msgstr ""
+
+#: includes/functions.front.php:59
+msgid "Content has been loaded"
+msgstr ""
+
+#: includes/html/create_new.images.php:13
+msgid "Image Sources"
+msgstr ""
+
+#: includes/html/create_new.images.php:48
+msgid "Image upload"
+msgstr ""
+
+#: includes/html/create_new.images.php:57
+#: includes/html/create_new.videos.php:61
+msgid "DELETE SELECTED"
+msgstr ""
+
+#: includes/html/create_new.images.php:60
+#: includes/html/create_new.videos.php:64
+msgid "DELETE ALL"
+msgstr ""
+
+#: includes/html/create_new.images.php:69
+msgid "Layout settings"
+msgstr ""
+
+#: includes/html/create_new.images.php:72
+#: includes/html/create_new.woo_commerce.php:112
+#: includes/html/create_new.wp_post.php:94
+msgid "Select our layout templates"
+msgstr ""
+
+#: includes/html/create_new.images.php:88
+msgid "Auto resize gallery"
+msgstr ""
+
+#: includes/html/create_new.images.php:92
+#: includes/html/create_new.parallax_slide.php:90
+#: includes/html/create_new.parallax_slide.php:384
+#: includes/html/create_new.woo_commerce.php:151
+#: includes/html/create_new.woo_commerce.php:164
+#: includes/html/create_new.woo_commerce.php:177
+#: includes/html/create_new.woo_commerce.php:190
+#: includes/html/create_new.woo_commerce.php:205
+#: includes/html/create_new.woo_commerce.php:218
+#: includes/html/create_new.wp_post.php:134
+#: includes/html/create_new.wp_post.php:147
+#: includes/html/create_new.wp_post.php:160
+#: includes/html/create_new.wp_post.php:173
+#: includes/html/create_new.wp_post.php:188
+msgid "No"
+msgstr ""
+
+#: includes/html/create_new.images.php:93
+#: includes/html/create_new.parallax_slide.php:89
+#: includes/html/create_new.parallax_slide.php:383
+#: includes/html/create_new.woo_commerce.php:150
+#: includes/html/create_new.woo_commerce.php:163
+#: includes/html/create_new.woo_commerce.php:176
+#: includes/html/create_new.woo_commerce.php:189
+#: includes/html/create_new.woo_commerce.php:204
+#: includes/html/create_new.woo_commerce.php:217
+#: includes/html/create_new.wp_post.php:133
+#: includes/html/create_new.wp_post.php:146
+#: includes/html/create_new.wp_post.php:159
+#: includes/html/create_new.wp_post.php:172
+#: includes/html/create_new.wp_post.php:187
+msgid "Yes"
+msgstr ""
+
+#: includes/html/create_new.images.php:101
+msgid "Thumbnail width"
+msgstr ""
+
+#: includes/html/create_new.images.php:104
+#: includes/html/create_new.woo_commerce.php:131
+#: includes/html/create_new.wp_post.php:114
+msgid "Height"
+msgstr ""
+
+#: includes/html/create_new.images.php:110
+#: includes/html/create_new.woo_commerce.php:137
+#: includes/html/create_new.wp_post.php:120
+msgid "Number of row"
+msgstr ""
+
+#: includes/html/create_new.images.php:113
+#: includes/html/create_new.woo_commerce.php:140
+#: includes/html/create_new.wp_post.php:123
+msgid "Spacing"
+msgstr ""
+
+#: includes/html/create_new.images.php:119
+msgid "Thumbnail process"
+msgstr ""
+
+#: includes/html/create_new.images.php:123
+#: includes/html/create_new.woo_commerce.php:63
+#: includes/html/create_new.wp_post.php:63
+msgid "None"
+msgstr ""
+
+#: includes/html/create_new.images.php:124
+msgid "Crop"
+msgstr ""
+
+#: includes/html/create_new.images.php:125
+msgid "Resize"
+msgstr ""
+
+#: includes/html/create_new.images.php:126
+msgid "Resize keep ratio"
+msgstr ""
+
+#: includes/html/create_new.images.php:138
+#: includes/html/create_new.parallax_slide.php:418
+#: includes/html/create_new.woo_commerce.php:231
+#: includes/html/create_new.wp_post.php:200
+msgid "Effect setting"
+msgstr ""
+
+#: includes/html/create_new.images.php:140
+msgid "Select effect for image gallery"
+msgstr ""
+
+#: includes/html/create_new.images.php:142
+#: includes/html/create_new.parallax_slide.php:422
+#: includes/html/create_new.woo_commerce.php:235
+#: includes/html/create_new.wp_post.php:204
+msgid "Content appare"
+msgstr ""
+
+#: includes/html/create_new.images.php:146
+#: includes/html/create_new.images.php:161
+#: includes/html/create_new.parallax_slide.php:426
+#: includes/html/create_new.woo_commerce.php:239
+#: includes/html/create_new.wp_post.php:208
+msgid "Fade from left"
+msgstr ""
+
+#: includes/html/create_new.images.php:147
+#: includes/html/create_new.images.php:162
+#: includes/html/create_new.parallax_slide.php:427
+#: includes/html/create_new.woo_commerce.php:240
+#: includes/html/create_new.wp_post.php:209
+msgid "Fade from top"
+msgstr ""
+
+#: includes/html/create_new.images.php:148
+#: includes/html/create_new.images.php:163
+#: includes/html/create_new.parallax_slide.php:428
+#: includes/html/create_new.woo_commerce.php:241
+#: includes/html/create_new.wp_post.php:210
+msgid "Fade from right"
+msgstr ""
+
+#: includes/html/create_new.images.php:149
+#: includes/html/create_new.images.php:164
+#: includes/html/create_new.parallax_slide.php:429
+#: includes/html/create_new.woo_commerce.php:242
+#: includes/html/create_new.wp_post.php:211
+msgid "Fade from bottom"
+msgstr ""
+
+#: includes/html/create_new.images.php:157
+#: includes/html/create_new.parallax_slide.php:437
+#: includes/html/create_new.woo_commerce.php:250
+#: includes/html/create_new.wp_post.php:219
+msgid "Content disappare"
+msgstr ""
+
+#: includes/html/create_new.images.php:172
+msgid "Scroll direction"
+msgstr ""
+
+#: includes/html/create_new.images.php:176
+msgid "Right to Left"
+msgstr ""
+
+#: includes/html/create_new.images.php:177
+msgid "Left to Right"
+msgstr ""
+
+#: includes/html/create_new.images.php:181
+msgid "List image scroll direction."
+msgstr ""
+
+#: includes/html/create_new.images.php:185
+#: includes/html/create_new.parallax_slide.php:445
+#: includes/html/create_new.woo_commerce.php:258
+#: includes/html/create_new.wp_post.php:227
+msgid "Custom content effect setting code"
+msgstr ""
+
+#: includes/html/create_new.images.php:197
+msgid "GET IMAGE FROM FLICKR"
+msgstr ""
+
+#: includes/html/create_new.images.php:199
+msgid "Flickr API"
+msgstr ""
+
+#: includes/html/create_new.images.php:206
+#: includes/html/create_new.images.php:257
+msgid "Username"
+msgstr ""
+
+#: includes/html/create_new.images.php:214
+msgid "Flickr Album"
+msgstr ""
+
+#: includes/html/create_new.images.php:226
+msgid "GET IMAGE FROM FACEBOOK"
+msgstr ""
+
+#: includes/html/create_new.images.php:228
+msgid "Token Key"
+msgstr ""
+
+#: includes/html/create_new.images.php:228
+msgid "get here"
+msgstr ""
+
+#: includes/html/create_new.images.php:230
+msgid "Token key to get items from facebook"
+msgstr ""
+
+#: includes/html/create_new.images.php:235
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/html/create_new.images.php:237
+msgid "Facebook page profile URL"
+msgstr ""
+
+#: includes/html/create_new.images.php:243
+msgid "Facebook Album"
+msgstr ""
+
+#: includes/html/create_new.images.php:255
+msgid "GET IMAGE FROM GOOGLE"
+msgstr ""
+
+#: includes/html/create_new.images.php:265
+msgid "Picasa Album"
+msgstr ""
+
+#: includes/html/create_new.images.php:277
+msgid "GET IMAGES"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:13
+msgid "General setting"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:15
+msgid "Slider name and Dimentions"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:17
+msgid "Slider name"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:24
+msgid "Alias name"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:26
+msgid "Auto generate from slider name"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:31
+#: includes/html/create_new.parallax_slide.php:42
+msgid "Slider width"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:35
+msgid "Auto"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:36
+msgid "Fixed width"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:37
+msgid "Full width"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:44
+msgid "Slider height"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:50
+msgid "Background type"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:54
+#: includes/shortCodeClass.php:152
+msgid "Image background"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:55
+msgid "Video background"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:63
+msgid "Parallax background type"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:67
+msgid "Dynamic parallax"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:68
+msgid "Static parallax"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:76
+msgid "Background content color"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:85
+msgid "Enable parallax effect"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:98
+msgid "Hide slider under width."
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:105
+msgid "Parallax open Effect."
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:109
+msgid "Fancy Effect"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:110
+msgid "Simple Effect"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:122
+msgid "Images background setting"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:126
+msgid "Background image"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:148
+#: includes/html/create_new.parallax_slide.php:231 includes/html/index.php:170
+#: includes/html/parallax_content/woo-content-layout/layout1.php:42
+#: includes/html/parallax_content/woo-content-layout/layout2.php:82
+#: includes/shortCodeClass.php:253 includes/shortCodeClass.php:256
+msgid "Loading..."
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:156
+#: includes/html/create_new.parallax_slide.php:285
+msgid "Textured or color"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:206
+#: includes/html/create_new.parallax_slide.php:333
+msgid "Opacity"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:251
+msgid "Video background setting"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:256
+msgid "Background video"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:269
+#: includes/html/create_new.parallax_slide.php:358
+msgid "Image preview"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:379
+msgid "Mute video"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:396
+msgid "Content setting"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:399
+msgid "Content width"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:402
+msgid "(Blank: 100%)"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:406
+msgid ""
+"Insert the text content here, for a better SEO result you can use heading "
+"tags for important contents"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:420
+msgid "Select effect for content text"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:454
+msgid "GET VIDEO BACKGROUND"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:456
+msgid "Video Url"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:461
+msgid ""
+"We are support three video url format: <br/> - Direct video: http://domain."
+"com/video-name.mp4<br/> - Youtube: https://www.youtube.com/watch?"
+"v=nlXbu32mXzI<br/> - Vimeo: https://vimeo.com/56974406"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:464
+#: includes/html/create_new.videos.php:115
+msgid "GET VIDEO"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:472
+#: includes/html/create_new.videos.php:76
+msgid "GET VIDEO FROM YOUTUBE"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:474
+#: includes/html/create_new.videos.php:85
+msgid "Youtube URL"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:479
+msgid ""
+"We are support single youtube url format: <br/> - https://www.youtube.com/"
+"watch?v=nlXbu32mXzI"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:483
+#: includes/html/create_new.parallax_slide.php:494
+#: includes/html/create_new.parallax_slide.php:504
+msgid "EDIT VIDEO"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:485
+#: includes/html/create_new.videos.php:96
+msgid "Vimeo URL"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:490
+msgid "We are support a single video: <br/> - https://vimeo.com/56974406"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:496
+#: includes/html/create_new.videos.php:107
+msgid "Embed code"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:506
+msgid "Video URL"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:514
+msgid "EDIT IMAGE"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:516
+msgid "Image URL"
+msgstr ""
+
+#: includes/html/create_new.parallax_slide.php:524
+msgid "OK"
+msgstr ""
+
+#: includes/html/create_new.php:17 includes/html/index.php:14
+msgid "Advanced Parallax Background"
+msgstr ""
+
+#: includes/html/create_new.php:41
+#, php-format
+msgid "No item with id (%s) found. Please add new slider"
+msgstr ""
+
+#: includes/html/create_new.php:54
+msgid "PARALLAX SLIDER"
+msgstr ""
+
+#: includes/html/create_new.php:91
+msgid "SAVE SLIDESHOW"
+msgstr ""
+
+#: includes/html/create_new.php:92
+msgid "SAVE & CLOSE"
+msgstr ""
+
+#: includes/html/create_new.php:93
+msgid "CANCEL"
+msgstr ""
+
+#: includes/html/create_new.videos.php:13
+msgid "Video Sources"
+msgstr ""
+
+#: includes/html/create_new.videos.php:33
+msgid "Video Gallery"
+msgstr ""
+
+#: includes/html/create_new.videos.php:49
+msgid "Thumbnail image"
+msgstr ""
+
+#: includes/html/create_new.videos.php:78
+msgid "Google API"
+msgstr ""
+
+#: includes/html/create_new.videos.php:90
+msgid ""
+"We are support three youtube url format: <br/> - Single video: https://www."
+"youtube.com/watch?v=nlXbu32mXzI<br/> - Playlist: https://www.youtube.com/"
+"playlist?list=PLswJ5Pgi5hDezucQ3I64dWTbwai2XC1I_ <br/>(Require Google "
+"API)<br/> - Channel: https://www.youtube.com/channel/"
+"UCDQeIiQSdMFKAntX-1HY9mA <br/>(Require Google API)"
+msgstr ""
+
+#: includes/html/create_new.videos.php:94
+msgid "GET VIDEO FROM VIMEO"
+msgstr ""
+
+#: includes/html/create_new.videos.php:101
+msgid ""
+"We are support three vimeo url format: <br/> - Single video: https://vimeo."
+"com/56974406<br/> - Album: https://vimeo.com/album/2210627<br/> - User: "
+"https://vimeo.com/user15700123"
+msgstr ""
+
+#: includes/html/create_new.videos.php:105
+msgid "GET VIDEO WITH EMBED CODE"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:13
+msgid "Woo Commerce Setting"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:16
+#: includes/html/create_new.wp_post.php:16
+msgid "Widget title"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:19
+#: includes/html/create_new.wp_post.php:19
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:24
+msgid "Product categories"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:34
+#: includes/html/create_new.wp_post.php:34
+msgid "No categories find"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:38
+msgid "Select product categories."
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:43
+msgid "Product IDs"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:46
+#: includes/html/create_new.wp_post.php:46
+msgid ""
+"Fill this field with pages IDs separated by commas (,) to retrieve only them."
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:51
+msgid "Exclude Products IDs"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:54
+msgid ""
+"Fill this field with products IDs separated by commas (,) to exclude them "
+"from query."
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:59
+msgid "Product types"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:64
+msgid "Nomal Product"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:65
+msgid "Sale Product"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:66
+msgid "Featured Product"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:74
+#: includes/html/create_new.wp_post.php:59
+msgid "Order by"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:78
+msgid "Ordering"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:79
+#: includes/html/create_new.wp_post.php:65
+msgid "Title"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:80
+#: includes/html/create_new.wp_post.php:67
+msgid "Date"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:81
+msgid "Popularity (sales)"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:82
+msgid "Rating"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:83
+msgid "Price"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:84
+#: includes/html/create_new.wp_post.php:69
+msgid "Random"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:91
+#: includes/html/create_new.wp_post.php:73
+msgid "Order way"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:94
+#: includes/html/create_new.wp_post.php:76
+msgid "DESC"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:95
+#: includes/html/create_new.wp_post.php:77
+msgid "ASC"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:99
+#: includes/html/create_new.wp_post.php:81
+msgid "Limit"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:109
+#: includes/html/create_new.wp_post.php:91
+msgid "Layout Setting"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:128
+#: includes/html/create_new.wp_post.php:111
+msgid "Item width"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:146
+#: includes/html/create_new.wp_post.php:129
+msgid "Show image"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:159
+#: includes/html/create_new.wp_post.php:142
+msgid "Show title"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:172
+msgid "Show product Information"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:185
+msgid "Show Product Description"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:194
+#: includes/html/create_new.wp_post.php:177
+msgid "Number of word"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:200
+msgid "Show Add to cart"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:213
+msgid "Show Add to wishlist"
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:222
+msgid ""
+"This option only use when <strong>yith-woocommerce-wishlist</strong> "
+"installed."
+msgstr ""
+
+#: includes/html/create_new.woo_commerce.php:233
+msgid "Select effect for product list"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:13
+msgid "WP Post Setting"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:24
+msgid "Posts categories"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:38
+msgid "Select post categories."
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:43
+msgid "Posts IDs"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:51
+msgid "Exclude Posts IDs"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:54
+msgid ""
+"Fill this field with posts IDs separated by commas (,) to exclude them from "
+"query."
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:64 includes/html/index.php:48
+msgid "ID"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:66
+msgid "Post slug"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:68
+msgid "Comment"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:155
+msgid "Show Post Information"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:168
+msgid "Show Post Description"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:183
+msgid "Show Read more"
+msgstr ""
+
+#: includes/html/create_new.wp_post.php:202
+msgid "Select effect for posts gallery"
+msgstr ""
+
+#: includes/html/index.php:34 includes/html/index.php:123
+msgid "CREATE NEW"
+msgstr ""
+
+#: includes/html/index.php:37 includes/html/index.php:126
+msgid "DELETE"
+msgstr ""
+
+#: includes/html/index.php:45
+msgid "Select All"
+msgstr ""
+
+#: includes/html/index.php:49
+msgid "Name"
+msgstr ""
+
+#: includes/html/index.php:50
+msgid "ShortCode"
+msgstr ""
+
+#: includes/html/index.php:51
+msgid "Type"
+msgstr ""
+
+#: includes/html/index.php:53
+msgid "Last Modify"
+msgstr ""
+
+#: includes/html/index.php:56
+msgid "Published"
+msgstr ""
+
+#: includes/html/index.php:59
+msgid "Action"
+msgstr ""
+
+#: includes/html/index.php:118
+msgid "No slider created"
+msgstr ""
+
+#: includes/html/index.php:133
+msgid "BACKGROUND CONTENT TYPES"
+msgstr ""
+
+#: includes/html/index.php:162
+msgid "CREATE NEW SLIDESHOW"
+msgstr ""
+
+#: includes/html/index.php:168
+msgid "Close"
+msgstr ""
+
+#: includes/html/parallax_content/image-content-layout/default.php:31
+#: includes/utility.php:680 includes/utility.php:683
+msgid "Image thumbnail"
+msgstr ""
+
+#: includes/html/parallax_content/image-content-layout/default.php:32
+msgid "Image large view"
+msgstr ""
+
+#: includes/html/parallax_content/woo-commerce.php:74
+#: includes/html/parallax_content/wp-post.php:35
+msgid "Message"
+msgstr ""
+
+#: includes/html/parallax_content/woo-commerce.php:76
+#: includes/html/parallax_content/wp-post.php:37
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:24
+#: includes/html/parallax_content/woo-content-layout/layout2.php:96
+#: includes/html/parallax_content/woo-content-layout/layout2.php:99
+msgid "View Wishlist"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:26
+#: includes/html/parallax_content/woo-content-layout/layout2.php:98
+msgid "Add wishlist"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:27
+msgid " View Wishlist"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:35
+#: includes/html/parallax_content/woo-content-layout/layout2.php:89
+msgid "Add cart"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:37
+#: includes/html/parallax_content/woo-content-layout/layout2.php:91
+msgid "Select option"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:37
+#: includes/html/parallax_content/woo-content-layout/layout2.php:91
+msgid "View product"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout1.php:146
+#: includes/html/parallax_content/woo-content-layout/layout2.php:141
+msgid "Please install or active yith woocommerce wishlist plugin"
+msgstr ""
+
+#: includes/html/parallax_content/woo-content-layout/layout2.php:18
+msgid "Sale icon"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout1.php:46
+msgid "Post in "
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout1.php:48
+msgid "by"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout1.php:49
+msgid " Comment"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout1.php:49
+msgid " Comments"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout1.php:62
+#: includes/html/parallax_content/wp-content-layout/layout2.php:55
+msgid "Read more"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout2.php:42
+msgid " comment"
+msgstr ""
+
+#: includes/html/parallax_content/wp-content-layout/layout2.php:42
+msgid " comments"
+msgstr ""
+
+#: includes/shortCodeClass.php:63
+msgid "No Parallax Background:"
+msgstr ""
+
+#: includes/utility.php:252
+msgid "Image has been gotten"
+msgstr ""
+
+#: includes/utility.php:361
+msgid "image preview"
+msgstr ""
+
+#: includes/utility.php:389
+msgid "URL invalid or not support"
+msgstr ""
+
+#: includes/utility.php:681 includes/utility.php:684
+msgid "Image large preview"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://apbackground.sdemo.site"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"AP Background is a responsive WordPress advanced parallax background plugin. "
+"It allows users to easily create background blocks with parallax effect of "
+"background and content (Image & video gallery, WordPress posts and Woo "
+"Commerce). AP Background makes your site be impressive and professional."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SFThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://sfwebservice.com"
+msgstr ""
